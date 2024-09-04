@@ -1,0 +1,2 @@
+user1:cat:Labrador:2:male
+user2:cat:Siamese:3:female
